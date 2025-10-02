@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c70f7f81-e2c8-4914-9dab-d414179e0a00" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InterviewPractice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Deserial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HashCodeEquals/Geek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HashCodeEquals/GeekMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HashCodeEquals/HashCodeCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HashMap/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ImmutableExample/Immutable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ImmutableExample/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LocalDateTime/DateTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Serial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Singleton/DB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Singleton/Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Singleton/Instance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Singleton/InstanceMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Singleton/Priyanshi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Singleton/SuperClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StackUsingArrayList/Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Student.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="31ZKKGPdUtLgtfw4FdFfrw04blc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.DateTime.executor": "Run",
+    "Application.Example.executor": "Run",
+    "Application.GeekMain.executor": "Run",
+    "Application.HashCodeCheck.executor": "Run",
+    "Application.InstanceMain.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.StackUsingArrayList.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/priya/IdeaProjects/InterviewPractice/src/Main.java"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c70f7f81-e2c8-4914-9dab-d414179e0a00" name="Changes" comment="" />
+      <created>1755726092713</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1755726092713</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
