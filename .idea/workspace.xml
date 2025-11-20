@@ -5,31 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c70f7f81-e2c8-4914-9dab-d414179e0a00" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InterviewPractice.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Deserial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HashCodeEquals/Geek.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HashCodeEquals/GeekMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HashCodeEquals/HashCodeCheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HashMap/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ImmutableExample/Immutable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ImmutableExample/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LocalDateTime/DateTime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Serial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Singleton/DB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Singleton/Example.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Singleton/Instance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Singleton/InstanceMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Singleton/Priyanshi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Singleton/SuperClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StackUsingArrayList/Example.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StreamInterview/Department.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StreamInterview/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StreamInterview/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +25,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;priyanshi1399&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/priyanshi1399/System-Design_LLD.git&quot;,
+    &quot;accountId&quot;: &quot;10d975e0-d2be-4d45-90b8-5bc3a411e7f8&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -55,23 +46,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.DateTime.executor": "Run",
-    "Application.Example.executor": "Run",
-    "Application.GeekMain.executor": "Run",
-    "Application.HashCodeCheck.executor": "Run",
-    "Application.InstanceMain.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.StackUsingArrayList.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/priya/IdeaProjects/InterviewPractice/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.DateTime.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Example.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GeekMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HashCodeCheck.executor&quot;: &quot;Run&quot;,
+    &quot;Application.InstanceMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StackUsingArrayList.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/priya/IdeaProjects/InterviewPractice/src/Main.java&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
